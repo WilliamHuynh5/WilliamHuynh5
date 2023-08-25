@@ -9,3 +9,5 @@
 
 <img src = "https://raw.githubusercontent.com/WilliamHuynh5/github-stats/master/generated/overview.svg" />
 <img src = "https://raw.githubusercontent.com/WilliamHuynh5/github-stats/master/generated/languages.svg" />
+![](https://raw.githubusercontent.com/WilliamHuynh5/github-stats/master/generated/overview.svg)
+![](https://raw.githubusercontent.com/WilliamHuynh5/github-stats/master/generated/languages.svg)
